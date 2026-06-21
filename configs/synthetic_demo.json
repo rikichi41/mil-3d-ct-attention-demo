@@ -1,0 +1,10 @@
+{
+  "n_patients": 160,
+  "positive_fraction": 0.5,
+  "min_blocks": 5,
+  "max_blocks": 10,
+  "depth": 16,
+  "height": 32,
+  "width": 32,
+  "seed": 7
+}

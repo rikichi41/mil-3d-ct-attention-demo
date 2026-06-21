@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Runtime outputs
+outputs/
+logs/
+*.log
+*.out
+*.err
+
+# Medical/private data and trained weights
+data/
+dataset/
+*.dcm
+*.nii
+*.nii.gz
+*.mhd
+*.raw
+*.npy
+*.npz
+*.csv
+*.pth
+*.pt
+*.ckpt
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
